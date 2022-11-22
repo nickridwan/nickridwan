@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently mobile developer<br>I'm currently learning flutter
+I'm currently mobile developer
 
 
 ## 🌐 Socials:
