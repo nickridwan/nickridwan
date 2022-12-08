@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently mobile developer
 
-nickridwan.github.io/web-porto/
+https://nickridwan.github.io/web-porto/
 
 
 ## 🌐 Socials:
