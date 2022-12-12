@@ -17,6 +17,10 @@ https://nickridwan.github.io/web-porto/
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### Meme from me XD
+
+!false != true XD
+
 ---
 [![](https://visitcount.itsvg.in/api?id=nickridwan&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
 
