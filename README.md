@@ -5,7 +5,17 @@ https://ridwanhanif.my.id
 
 clean code always looks like it was written by someone who cares
 
-<img src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif" width="600" height="300"/>
+<div align="center">
+<h1>
+  Hey there, I'm Ridwan Hanif!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif" width="600" height="300"/>
+</div>
+
 
 
 
