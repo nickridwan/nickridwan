@@ -5,6 +5,8 @@ https://ridwanhanif.my.id
 
 clean code always looks like it was written by someone who cares
 
+<img src="https://i.pinimg.com/originals/48/2f/f3/482ff37c43387b76de1161edb4d04977.gif" width="600" height="300"/>
+
 
 
 ## 🌐 Socials:
