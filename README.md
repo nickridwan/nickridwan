@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently mobile developer
+
 
 https://ridwanhanif.my.id
 
@@ -8,6 +8,9 @@ clean code always looks like it was written by someone who cares
 <div align="center">
 <h1>
   Hey there, I'm Ridwan Hanif!
+  
+  I'm currently mobile developer
+  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
