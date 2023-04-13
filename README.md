@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
-https://ridwanhanif.my.id
+linktr.ee/ridwanhanif
 
 Mobile Developer
 
